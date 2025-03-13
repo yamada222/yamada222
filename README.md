@@ -8,7 +8,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[yamada222]&theme=[dracula]&layout=[default])](https://github.com/anuraghazra/github-readme-stats)
-<img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamada222&theme=vue-dark&layout=compact" />
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamada222&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamada222&theme=gruvbox)
