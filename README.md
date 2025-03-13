@@ -7,8 +7,7 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamada222)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamada222&show_icons=true&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamada222&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamada222&theme=gruvbox)
