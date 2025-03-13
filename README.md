@@ -7,6 +7,8 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada222&theme=dracula&layout=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada222&theme=dracula&layout=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada222&theme=dracula&layout=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
